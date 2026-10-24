@@ -1,5 +1,5 @@
-Column1	Column2	Column3	Column4	Column5	Column6	Column7	Column8	Column9	Column10	Column11	Column12	Column13	Column14	Column15	Column16	Column17	Column18	Column19
-First Name	Middle Name	Last Name	Phonetic First Name	Phonetic Middle Name	Phonetic Last Name	Name Prefix	Name Suffix	Nickname	File As	Organization Name	Organization							
-Anh	Ng?c B?o 	Lý 									L?p tr??ng					BCS_DI26D1A1_K52 ::: * myContacts	* 	anhB2605256@student.ctu.edu.vn
-Hân	Hoàng Gia 	Nguy?n 									L?p phó h?c t?p					BCS_DI26D1A1_K52 ::: * myContacts	* 	hanB2605267@student.ctu.edu.vn
-Tiên	 Th? Ái 	Lê									Bí th?					BCS_DI26D1A1_K52 ::: * myContacts	* 	tienB2605208.student.ctu.edu.vn
+Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19
+First Name,Middle Name,Last Name,Phonetic First Name,Phonetic Middle Name,Phonetic Last Name,Name Prefix,Name Suffix,Nickname,File As,Organization Name,Organization,,,,,,,
+Anh,Ng?c B?o ,Lý ,,,,,,,,,L?p tr??ng,,,,,BCS_DI26D1A1_K52 ::: * myContacts,* ,anhB2605256@student.ctu.edu.vn
+Hân,Hoàng Gia ,Nguy?n ,,,,,,,,,L?p phó h?c t?p,,,,,BCS_DI26D1A1_K52 ::: * myContacts,* ,hanB2605267@student.ctu.edu.vn
+Tiên, Th? Ái ,Lê,,,,,,,,,Bí th?,,,,,BCS_DI26D1A1_K52 ::: * myContacts,* ,tienB2605208.student.ctu.edu.vn
